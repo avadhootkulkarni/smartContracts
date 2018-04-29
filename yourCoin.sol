@@ -31,3 +31,4 @@ contract yourCoin{
 
 
 }
+//deployed on kovan testnet: https://kovan.etherscan.io/tx/0xc934bb0b1a46e53494c38bc5b1fce86e48b341b1f0e42eea12b7ee386fbd2977
